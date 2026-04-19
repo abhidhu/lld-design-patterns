@@ -5,5 +5,5 @@
 |---|---|---|
 | Parking Lot | Singleton, Factory, Strategy | ✅ Done |
 | Coffee Machine | Singleton, Factory, Decorator | ✅ Done |
-| Library System | WIP | 🚧 |
+| Library System | WIP | ✅ Done |
 | ATM Machine | Coming soon | ⏳ |
