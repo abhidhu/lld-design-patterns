@@ -6,6 +6,7 @@
 | Parking Lot | Singleton, Factory, Strategy | ✅ Done |
 | Coffee Machine | Singleton, Factory, Decorator | ✅ Done |
 | Library System | Observer, Strategy, Singleton, Facade | ✅ Done |
+| Vending Machine | State, Observer, Strategy, Factory, Singleton | ✅ Done |
 | ATM Machine | Coming soon | ⏳ |
 
 
@@ -18,6 +19,7 @@ patterns used and working Java implementation.
 - Singleton
 - Observer  
 - Strategy
+- State
 - Facade
 - Factory
 - Decorator
