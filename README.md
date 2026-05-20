@@ -7,7 +7,7 @@
 | Coffee Machine | Singleton, Factory, Decorator | ✅ Done |
 | Library System | Observer, Strategy, Singleton, Facade | ✅ Done |
 | Vending Machine | State, Observer, Strategy, Factory, Singleton | ✅ Done |
-| ATM Machine | Coming soon | ⏳ |
+| ATM Machine | State, Observer, Strategy, Singleton, Compensating Transaction | ✅ Done |
 
 
 ## About This Repo
